@@ -1,27 +1,56 @@
-# AngularHttp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+<h1 align = "center">
+<strong>angular-http</strong>
+</h1>
 
-## Development server
+<p align="center">
+   <a href="https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/">
+   <a>
+      <img alt="Danilo Alexandrino" src="https://img.shields.io/badge/-Danilo%20Alexandrino-ff0000?style=flat&logo=Linkedin&logoColor=white" />
+  <a href="https://github.com/daniloaldm/angular-http/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daniloaldm/angular-http?color=ff0000">
+  </a> 
+  <a href="https://github.com/daniloaldm/angular-http/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-ff0000">
+  </a>
+  <a href="https://github.com/daniloaldm/angular-http/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/daniloaldm/angular-http?color=ff0000&logo=github">
+  </a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+##  📌 Tecnologias utilizadas
+<p align="center">
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
-## Code scaffolding
+-   [Angular CLI](https://cli.angular.io/)  (v8.15.0)
+-   [Node.js](https://nodejs.org/en/download/)  (v10.9.0)
+-   [Json-server](https://github.com/typicode/json-server)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🛠️ Ferramentas Utilizadas
+- [Vscode](https://code.visualstudio.com/)
 
-## Build
+## 📕 Informações
+Para exemplificar o uso do  `HttpClient`, o projeto criado é um CRUD para ajudar de forma simples e básica a manipular carros, também foi criado uma API REST fake, essa api fake simula o back-end
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 🚀 Instalação/Execução
 
-## Running unit tests
+1. Acesse a raiz do projeto e execute:
+`npm install`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+2. Após instalar as dependências abra 2 terminais na raiz do projeto
 
-## Running end-to-end tests
+3. No primeiro execute:
+`ng serve`
+para utilizar o frontend da aplicação
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+4. No segundo execute:
+`json-server --watch src/assets/data/db.json`
+para utilizar a API REST fake
 
-## Further help
+## 👨‍💻 [](<[https://github.com/daniloaldm/angular-http](https://github.com/daniloaldm/angular-http)#autor>)Autor
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Criado por [**Danilo Alexandrino** ](https://github.com/daniloaldm), <br>esse projeto está sobre [MIT license](./LICENSE) 📃.
+
+Coloque uma ⭐️ caso esse projeto tenha lhe ajudado :heart:
