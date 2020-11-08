@@ -37,16 +37,21 @@ Para exemplificar o uso do  `HttpClient`, o projeto criado é um CRUD para ajuda
 ## 🚀 Instalação/Execução
 
 1. Acesse a raiz do projeto e execute:
+
 `npm install`
 
 2. Após instalar as dependências abra 2 terminais na raiz do projeto
 
 3. No primeiro execute:
+
 `ng serve`
+
 para utilizar o frontend da aplicação
 
 4. No segundo execute:
+
 `json-server --watch src/assets/data/db.json`
+
 para utilizar a API REST fake
 
 ## 👨‍💻 [](<[https://github.com/daniloaldm/angular-http](https://github.com/daniloaldm/angular-http)#autor>)Autor
