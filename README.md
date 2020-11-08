@@ -54,6 +54,10 @@ para utilizar o frontend da aplicação
 
 para utilizar a API REST fake
 
+5. Acesse:
+
+`http://localhost:4200/`
+
 ## 👨‍💻 [](<[https://github.com/daniloaldm/angular-http](https://github.com/daniloaldm/angular-http)#autor>)Autor
 
 Criado por [**Danilo Alexandrino** ](https://github.com/daniloaldm), <br>esse projeto está sobre [MIT license](./LICENSE) 📃.
