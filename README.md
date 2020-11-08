@@ -7,10 +7,10 @@
    <a href="https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/">
    <a>
       <img alt="Danilo Alexandrino" src="https://img.shields.io/badge/-Danilo%20Alexandrino-ff0000?style=flat&logo=Linkedin&logoColor=white" />
-  <a href="https://github.com/daniloaldm/angular-http/commits/master">
+  <a href="https://github.com/daniloaldm/angular-http/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daniloaldm/angular-http?color=ff0000">
   </a> 
-  <a href="https://github.com/daniloaldm/angular-http/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-ff0000">
+  <a href="https://github.com/daniloaldm/angular-http/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-ff0000">
   </a>
   <a href="https://github.com/daniloaldm/angular-http/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/daniloaldm/angular-http?color=ff0000&logo=github">
   </a>
