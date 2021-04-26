@@ -17,13 +17,6 @@
 </p>
 
 ##  📌 Tecnologias utilizadas
-<p align="center">
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
 -   [Angular CLI](https://cli.angular.io/)  (v8.15.0)
 -   [Node.js](https://nodejs.org/en/download/)  (v10.9.0)
 -   [Json-server](https://github.com/typicode/json-server)
